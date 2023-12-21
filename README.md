@@ -1,8 +1,14 @@
 ## About
 
-Skilled Test Automation Engineer with a solid foundation in Object-Oriented Programming (OOP) principles and intermediate Java experience. I discovered programming and was intrigued by its potential, and later discovered software automation, which I found to be incredibly versatile and efficient. I taught myself automation and learned fundamentals of testing. I have studied and successfully combined common test automation practices such as test execution with BDD, and application of object oriented programming in test automation I have successfully contributed to test automation projects, demonstrating expertise in Maven dependency management, Selenium for web automation, and Cucumber BDD Framework for efficient test scenario design and execution.
+Enthusiastic Test Automation Engineer with a solid foundation in Object-Oriented Programming (OOP) principles and intermediate Java experience. 
 
-My skills extend to API testing, where I have hands-on experience with Retrofit2 and OkHttp for communication and validation. I bring a proactive approach to problem-solving, ensuring reliable automated test suites that enhance the overall software quality.  <br>
+Under the guidance of professional test automation engineers, I had opportunity to develop a solid skill set in test automation within the Java OOP framework. 
+I have been developing expertise in Selenium for web automation, Cucumber BDD Framework, Page Object Model and dependency management with Maven for efficient test scenario design and execution. 
+I have successfully implemented common testing practices such as test execution with BDD, and application of object oriented programming in test automation. 
+My skills extend to API testing, where I have hands-on experience in backend testing and end-to-end testing.
+
+Thanks to guidance of professional test automation engineers, I developed healty coding practices, aiming always for writing readeble, modular and scalable code. 
+
 
 ## Skills                    
 
