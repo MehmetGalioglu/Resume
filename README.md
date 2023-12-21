@@ -16,8 +16,11 @@ My skills extend to API testing, where I have hands-on experience with Retrofit2
 
 ## Education
 
-- Bachelor's Degree in Physics
-  -  Middle East Technical University
+- Middle East Technical University
+  -  Bachelor's Degree in Physics
+  -  Master’s Degree Candidate in Physics Department
+  -  Master's Degree Candidate in Physical Education and Sports Department
+
 <br>
 
 # Projects 
