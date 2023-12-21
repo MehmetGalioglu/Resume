@@ -23,35 +23,16 @@ My skills extend to API testing, where I have hands-on experience with Retrofit2
 
 <br>
 
-# Projects 
+# Projects
+
+In this project, I created a UI automation framework, using **Selenium & Cucumber*. I applied *POM Design pattern*, creating page objects for each page, and writing step classes which bined the methods inside page objects to the *Cucumber* steps by instantiating the class object of the page. This project is build using basic principles of *OOP*, combines *BDD** with Selenium to test integrity of the website. Therefore this project is scalible for future tests on this specific website. 
 
 
-## API/UI Hybrid Test Automation 
-
-- In this project, I created a UI automation framework, using ***Selenium & Cucumber***.
-- By implementing the ***Page Object Model (POM)*** design pattern, created separate page objects for each page, ensuring a modular and maintainable test framework. 
-- Additionally, I wrote step classes that seamlessly integrated the methods within the page objects with the ***Cucumber*** steps, enhancing the readability and reusability of the test scripts.
-- This project is build using basic principles of ***OOP***, combines ***BDD*** with Selenium to test integrity of the website.
-- The modular structure of the framework makes it highly scalable, allowing for seamless expansion of future tests on this specific website.
-- Project page -> 
-
-
+  *[DemoQA Test Automation](https://github.com/MehmetGalioglu/E2ETestingOfTheBookStoreApplication)***
   
-  
- 
-
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-  
-## API Automation
-
-- This project is an API service that interacts with the PetStore database to perform various CRUD operations. The API service provides a convenient and easy-to-use interface for managing the database. 
-- Additionally, this project serves as a valuable template for future API automation projects. Its comprehensive functionality make it an ideal starting point for building similar solutions, saving time and effort in development.
-- Project page ->  
-  
+![Sample Project QR](/assets/img/qr .png)
 
 
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-  
 
 
 - ***[Web-Automation-Sample-Cucumber](https://github.com/Umutayb/Web-Automation-Sample-Cucumber)***
