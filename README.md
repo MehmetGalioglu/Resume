@@ -1,32 +1,23 @@
 ## About
 
-Passionate Test Automation Engineer with experience in software automation, Java, and Object-Oriented Programming principles. Committed to delivering high-quality results and continuously improving software performance.
+Skilled Test Automation Engineer with a solid foundation in Object-Oriented Programming (OOP) principles and intermediate Java experience. I discovered programming and was intrigued by its potential, and later discovered software automation, which I found to be incredibly versatile and efficient. I taught myself automation and learned fundamentals of testing. I have studied and successfully combined common test automation practices such as test execution with BDD, and application of object oriented programming in test automation I have successfully contributed to test automation projects, demonstrating expertise in Maven dependency management, Selenium for web automation, and Cucumber BDD Framework for efficient test scenario design and execution.
 
-Experienced in;
-- Designing and implementing test automation frameworks using ***Selenium***, ***Page Object Model*** design pattern, and ***BDD*** approach.
-- Working with automation tools including ***Selenium***, ***API*** testing tools, and ***Appium*** for mobile automation.
-- Generating comprehensive test reports to facilitate decision-making and enhance software quality.
-
-I am an active contributor of public utility libraries focused on software automation and java.
-My main approach is to identify issues and optimize efficiency and effectiveness. 
-I adopt a collaborative approach to achieving project goals.  <br>
+My skills extend to API testing, where I have hands-on experience with Retrofit2 and OkHttp for communication and validation. I bring a proactive approach to problem-solving, ensuring reliable automated test suites that enhance the overall software quality.  <br>
 
 ## Skills                    
 
 - ***Selenium*** - UI Automation
-- ***Appium*** - Mobile UI Automation
 - ***Cucumber*** - BDD
 - ***Retrofit & OkHttp*** - API Test Automation
 - ***Git*** - Version control
-- CI with ***Jenkins*** 
 - Intermediate level ***Java***
 - Intermediate level ***Maven***
 <br>
 
 ## Education
 
-- Dokuz Eylül University - Music Technology
-  - BA, Department of Music Sciences
+- Bachelor's Degree in Physics
+  -  Middle East Technical University
 <br>
 
 # Projects 
