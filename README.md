@@ -25,17 +25,9 @@ My skills extend to API testing, where I have hands-on experience with Retrofit2
 
 # Projects
 
-In this project, I created a UI automation framework, using **Selenium & Cucumber*. I applied *POM Design pattern*, creating page objects for each page, and writing step classes which bined the methods inside page objects to the *Cucumber* steps by instantiating the class object of the page. This project is build using basic principles of *OOP*, combines *BDD** with Selenium to test integrity of the website. Therefore this project is scalible for future tests on this specific website. 
+In this project, I created a UI automation framework, using ***Selenium & Cucumber***. I applied ***POM Design pattern***, creating page objects for each page, and writing step classes which bined the methods inside page objects to the ***Cucumber*** steps by instantiating the class object of the page. This project is build using basic principles of ***OOP***, combines ***BDD*** with Selenium to test integrity of the website. Therefore this project is scalible for future tests on this specific website. 
 
 
-  *[DemoQA Test Automation](https://github.com/MehmetGalioglu/E2ETestingOfTheBookStoreApplication)***
+  ***[DemoQA Test Automation](https://github.com/egecansen/DemoQA)***
   
 ![Sample Project QR](/assets/img/qr .png)
-
-
-
-
-- ***[Web-Automation-Sample-Cucumber](https://github.com/Umutayb/Web-Automation-Sample-Cucumber)***
-  - This project is a template demonstrating designed usage of Pickleib test automation library. The template can be used for quick initialisation of test automation projects.
-  - I expanded the versatility of the project by adding new test scenarios that encompass both UI and API testing. These additional scenarios allowed for a more comprehensive and thorough testing approach, catering to different aspects of web application testing.
-<br>
