@@ -9,6 +9,8 @@ My skills extend to API testing, where I have hands-on experience in backend tes
 
 Thanks to guidance of professional test automation engineers, I developed healty coding practices, aiming always for writing readeble, modular and scalable code. 
 
+Quality Assurance (QA) is one of the most important aspects of the Software Development Life Cycle, and I am passionate about developing expertise in this field. <br> 
+
 
 ## Skills                    
 
