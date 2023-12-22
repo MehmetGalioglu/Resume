@@ -34,8 +34,7 @@ Quality Assurance (QA) is one of the most important aspects of the Software Deve
 
 # Projects
 
-In this project, I created a UI automation framework, using ***Selenium & Cucumber***. I applied ***POM Design pattern***, creating page objects for each page, and creating corresponding step classes which connects the methods inside page objects to the ***Cucumber*** steps by instantiating the class object of the page. This project was build using basic principles of ***OOP***, combines ***BDD*** with Selenium to test integrity of the website. Therefore this project is scalable for future tests on this specific website. 
-
+In this project, I designed a test automation to execute end to end testing of DemoQA Bookstore Application using ***Cucumber BDD Framework*** and ***POM Design Pattern***. In the first part of the project, I sent Api requests to create a user and add some books to the user account. In the second part, Api responses are verified over the UI of the application. In this project every change can be contoroled over the cucumber steps. Therefore it is a scalable and sustainable project.
 
   ***[End to end testing of DemoQA Bookstore Application](https://github.com/MehmetGalioglu/E2ETestingOfTheBookStoreApplication)***
 
